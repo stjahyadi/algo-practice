@@ -1,0 +1,3 @@
+Create a program that can add how many cars into the trailer and how many trailers needed to load the cars
+A trailer will have max length and max weight. 
+A car will have length and weight. 
